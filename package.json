@@ -22,6 +22,14 @@
     "js",
     "ts"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ditinagrawal/ditto.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ditinagrawal/ditto.git/issues"
+  },
+  "homepage": "https://github.com/ditinagrawal/ditto.git#readme",
   "author": "Ditin Agrawal",
   "license": "MIT",
   "description": "A simple CLI tool to create your react/next apps with ease.",
