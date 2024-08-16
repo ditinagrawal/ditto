@@ -15,5 +15,5 @@ Welcome to Ditto - Your magical project scaffolding tool! 🚀
 Get started with Ditto in seconds:
 
 ```bash
-npx create-ditto
+npx create-app-ditto
 ```

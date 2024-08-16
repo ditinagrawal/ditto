@@ -1,9 +1,9 @@
 {
-  "name": "create-ditto-app",
+  "name": "create-app-ditto",
   "version": "1.0.1",
   "main": "index.js",
   "bin": {
-    "create-ditto-app": "./index.js"
+    "create-app-ditto": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -33,7 +33,7 @@
   "author": "Ditin Agrawal",
   "license": "MIT",
   "description": "A simple CLI tool to create your react/next apps with ease.",
-  "devDependencies": {
+  "dependencies": {
     "@clack/prompts": "^0.7.0",
     "fs-extra": "^11.2.0"
   }
