@@ -1,0 +1,32 @@
+{
+  "name": "ditto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "create-ditto": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "cli",
+    "react",
+    "next",
+    "create",
+    "app",
+    "ditto",
+    "create-react-app",
+    "create-next-app",
+    "shadcn",
+    "js",
+    "ts"
+  ],
+  "author": "Ditin Agrawal",
+  "license": "MIT",
+  "description": "A simple CLI tool to create your react/next apps with ease.",
+  "devDependencies": {
+    "@clack/prompts": "^0.7.0",
+    "fs-extra": "^11.2.0"
+  }
+}
