@@ -1,9 +1,9 @@
 {
-  "name": "ditto-app",
+  "name": "create-ditto-app",
   "version": "1.0.1",
   "main": "index.js",
   "bin": {
-    "ditto-app": "./index.js"
+    "create-ditto-app": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
